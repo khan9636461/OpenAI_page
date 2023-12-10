@@ -1,0 +1,27 @@
+.container-fluid{
+    background-color:white;
+    padding-bottom: 15px;
+    position: relative;
+
+}
+
+
+
+.navbar-brand{
+    color: black;
+    font-size: 25px;
+}
+.text-center{
+    background-color: grey;
+    color:white;
+}
+.card{
+    margin-bottom: 30px;
+}
+.section-header{
+    margin-bottom: 30px;
+}
+.img-fluid{
+    border-radius: 5px;
+}
+
